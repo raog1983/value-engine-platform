@@ -1,0 +1,10 @@
+Ini, TOML
+[theme]
+primaryColor = "#343ced"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f6f6f6"
+textColor = "#1b1b1b"
+font = "sans serif"
+
+[browser]
+gatherUsageStats = false
